@@ -8,7 +8,7 @@ assignees: JoelSayduck
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. If the bug is tied to a specific product, please rename the product to bug-report-[issue name].
 
 
 **To Reproduce**
